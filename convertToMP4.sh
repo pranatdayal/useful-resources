@@ -1,6 +1,6 @@
 #!/bin/bash
 dir=$1
-logfile=/disks/sgt/Movies/logfile.txt
+logfile=/tmp/mp4Convert.log
 
 printf "**Beginning conversion now\n" >> $logfile
 printf "**Dir: $1\n\n" >> $logfile
