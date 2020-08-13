@@ -12,6 +12,8 @@ https://github.com/danielmiessler/SecLists
 Linux kernel exploits - A collection of linux kernel exploits for privsec and such https://github.com/SecWiki/linux-kernel-exploits
 
 LinPEAS - Linux priv esc awesome suite https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
+
+Evil WINRM - https://github.com/Hackplayers/evil-winrm
 ## Useful Scripts 
 
 1. mergePDF.sh - This is a quick bash script that uses ghostscript (gs) to merge serveral PDF files together
